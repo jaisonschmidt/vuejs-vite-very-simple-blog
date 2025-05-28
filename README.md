@@ -22,6 +22,14 @@ src/
 main.js              # Entrada da aplicação
 ```
 
+### Criando uma cópia em sua conta
+
+Clique com o botão direito em **Copiar Exercício** e abra o link em uma nova aba.
+
+   <a id="copy-exercise" target="_blank" href="https://github.com/new?template_name=vuejs-vite-very-simple-blog&template_owner=jaisonschmidt&name=vuejs-vite-very-simple-blog-class&owner=%40me&visibility=public">
+      <img src="https://img.shields.io/badge/📠_Copiar_Exercício-008000" height="30pt"/>
+   </a>
+
 ## Instalação e Execução
 
 Para rodar este projeto, você precisa ter o [Node.js](https://nodejs.org/) instalado. Em seguida, execute os seguintes comandos:
